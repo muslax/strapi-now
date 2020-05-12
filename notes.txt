@@ -1,0 +1,11 @@
+yarn create strapi-app strapi-now --quickstart
+cd strapi-now
+npm install strapi-connector-mongoose
+npm install strapi-provider-upload-cloudinary
+
+update database.json
+create extensions/upload/settings.json > for cloudinary
+
+====
+admin:strapiNow
+ptkj:patikanji

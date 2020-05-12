@@ -1,0 +1,9 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "ptkj",
+      "api_key": "153343526773611",
+      "api_secret": "X1O_pkwZY81VVgjZYHTn3eiOLBo"
+    }
+  }
+
